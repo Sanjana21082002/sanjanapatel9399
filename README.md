@@ -1,3 +1,8 @@
+<div align="center">
+<kbd width="100%"><a href="#"><img width="100%" height="100%" src="https://raw.githubusercontent.com/Amanjot726/Amanjot726/main/Code.jpg" alt="cover" /></a></kbd>
+</div>
+
+
 ## Hi 👋, I'm Sanjana <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
 
@@ -8,7 +13,7 @@
 <br>
 
 
-### :gear: My skills include:
+<h2> Skills <a href="#"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '32px' height='32px'></a> </h2>
 
 - **Languages**: `C++`, `JavaScript`,`PHP`,`Python`,`C`
 
@@ -22,7 +27,7 @@
 <br>
 
 
-📫 **How to Reach me**: 
+📫<h2> Connect with me <a href="#"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='50px' height='50px'></a> </h2>
  
 
 <a href="www.linkedin.com/in/sanjana-patel-754103256">
@@ -34,5 +39,8 @@
 </a></br>
 <br>
 <br>
+Nice to meet you all! 
+
+![tenor (1)](https://user-images.githubusercontent.com/59911272/121473014-a6e75300-c9df-11eb-8007-2f3d216f47af.gif)
 <br>
 <br>
