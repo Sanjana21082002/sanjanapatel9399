@@ -31,8 +31,14 @@
   
 <a href="mailto:sanjanapatel9399@gmail.com">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
-</a></br>
+</a>
+</br>
 <br>
+
+<br>
+Nice to meet you all! 
+
+![tenor (1)](https://user-images.githubusercontent.com/59911272/121473014-a6e75300-c9df-11eb-8007-2f3d216f47af.gif)
 <br>
 <br>
 <br>
